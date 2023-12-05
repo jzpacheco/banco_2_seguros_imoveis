@@ -2,7 +2,7 @@
 server:
   port: 8080
 cors:
-  originPatterns: "http://localhost:5173/"
+  originPatterns: "http://localhost:5173"
 spring:
   datasource:
     url: jdbc:sqlserver://ojulianos.database.windows.net:1433;databaseName=satc;encrypt=true;trustServerCertificate=true;
